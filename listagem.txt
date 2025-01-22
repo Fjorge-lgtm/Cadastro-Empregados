@@ -1,0 +1,5 @@
+Listagem de Cadastro
+==================================================
+Codigo: 1 | Nome: Joao ce tal | Telefone: 62 369258147 | Email: joa@gmail.com | CPF: 159357258-53
+Codigo: 2 | Nome: Joana de Tal | Telefone: 62-369258147 | Email: joana@uol.com.br | CPF: 159852369-53
+==================================================
